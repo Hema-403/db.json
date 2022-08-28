@@ -1,0 +1,197 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "name": "The India Story",
+        "roll": 257,
+        "email": "Bimal Jalal",
+        "mobile": "",
+        "salary": "",
+        "wishlist": true,
+        "completedbooks": true
+      },
+      {
+        "id": 2,
+        "name": "A Place Called Home",
+        "roll": 978,
+        "email": "Preeti Shenoy",
+        "mobile": "",
+        "salary": "",
+        "wishlist": false,
+        "completedbooks": true
+      },
+      {
+        "id": 3,
+        "name": "My Experiments with Silence’",
+        "roll": 854,
+        "email": "Samir Soni",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false,
+        "completedbooks": true
+      },
+      {
+        "id": 4,
+        "name": "Suparipalana",
+        "roll": 725,
+        "email": "Dr. Shailendra Joshi",
+        "mobile": null,
+        "salary": null,
+        "wishlist": true,
+        "completedbooks": true
+      },
+      {
+        "id": 5,
+        "name": "Soli Sorabjee: Life and Times",
+        "roll": 452,
+        "email": "Abhinav Chandrachud",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false,
+        "completedbooks": false
+      },
+      {
+        "id": 6,
+        "name": "Tomb of Sand'",
+        "roll": 487,
+        "email": "Geetanjali Shree’s",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false
+      },
+      {
+        "id": 7,
+        "name": "Monsoon’",
+        "roll": 192,
+        "email": "Sahitya Akademi",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false,
+        "completedbooks": false
+      },
+      {
+        "id": 8,
+        "name": "The Little Book of Joy",
+        "roll": 87,
+        "email": "Desmond Tutu",
+        "mobile": null,
+        "salary": null,
+        "wishlist": true
+      },
+      {
+        "id": 9,
+        "name": "The Maverick Effect",
+        "roll": 123,
+        "email": "Harish Mehta",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false
+      },
+      {
+        "id": 10,
+        "name": "The Boy Who Wrote a Constitution",
+        "roll": 523,
+        "email": "Rajesh Talwar",
+        "mobile": null,
+        "salary": null,
+        "wishlist": false,
+        "completedbooks": true
+      }
+    ],
+    "signupUsers": [
+      {
+        "fullname": "er",
+        "email": "cbi@gmail.com",
+        "password": "123",
+        "mobile": 54321,
+        "id": 1
+      },
+      {
+        "fullname": "bee",
+        "email": "defg@gmail.com",
+        "password": "123",
+        "mobile": 675,
+        "id": 2
+      },
+      {
+        "fullname": "ff",
+        "email": "ca@gmail.com",
+        "password": "123",
+        "mobile": 2255555,
+        "id": 3
+      },
+      {
+        "fullname": "o",
+        "email": "p@gmail.com",
+        "password": "12",
+        "mobile": 8,
+        "id": 4
+      },
+      {
+        "fullname": "mm",
+        "email": "ufgh@gmail.com",
+        "password": "12",
+        "mobile": 76344,
+        "id": 5
+      },
+      {
+        "fullname": "pet",
+        "email": "jcb@gmail.com",
+        "password": "123",
+        "mobile": 836437864,
+        "id": 6
+      },
+      {
+        "fullname": "udesi",
+        "email": "bde@gmail.com",
+        "password": "123",
+        "mobile": 876537829,
+        "id": 7
+      },
+      {
+        "fullname": "nat",
+        "email": "jan247@gmail.com",
+        "password": "123",
+        "mobile": 78624871240,
+        "id": 8
+      },
+      {
+        "fullname": "",
+        "email": "jan247@gmail.com",
+        "password": "7729",
+        "mobile": "",
+        "id": 9
+      },
+      {
+        "fullname": "",
+        "email": "",
+        "password": "",
+        "mobile": "",
+        "id": 10
+      },
+      {
+        "fullname": "ram",
+        "email": "kov484@gmail.com",
+        "password": "7724578",
+        "mobile": 728469245,
+        "id": 11
+      },
+      {
+        "fullname": "ijk",
+        "email": "ijk456@gmail.com",
+        "password": "0987",
+        "mobile": 97634691467,
+        "id": 12
+      },
+      {
+        "fullname": "klu",
+        "email": "uehdx097@gmail.com",
+        "password": "973787",
+        "mobile": 73469347912,
+        "id": 13
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
